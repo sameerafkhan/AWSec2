@@ -1,1 +1,47 @@
-learning git/linux commands
+learning git/linux command
+s . git status - to check the status
+git add file.txt - to staged file
+git commit -m "some msg" - to save changes to file
+git push - to save changes to file under github repo
+git status - to check again the status it should say not in staging
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:wq
+
